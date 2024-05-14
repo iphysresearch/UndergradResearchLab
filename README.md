@@ -82,6 +82,7 @@ Tips：
 - 《A guide to LIGO–Virgo detector noise and extraction of transient gravitational-wave signals》【55页】[https://iopscience.iop.org/article/10.1088/1361-6382/ab685e](https://iopscience.iop.org/article/10.1088/1361-6382/ab685e)
 - 《Enhancing gravitational-wave science with machine learning》【20页】[https://iopscience.iop.org/article/10.1088/2632-2153/abb93a](https://iopscience.iop.org/article/10.1088/2632-2153/abb93a)
 - 《First machine learning gravitational-wave search mock data challenge》【24页】[https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.023021](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.023021)
+- 《Gravitational-WavePhysics and Astronomy——An Introduction to Theory, Experiment and Data Analysis》written by Jolien D.E. Creighton, Warren G.Anderson；引力波中文版教科书：《引力波物理学与天文学——理论、实验和数据分析的介绍》王炎 译
 - https://iphysresearch.github.io/Survey4GWML/
 - [https://iphysresearch.github.io/blog/project/gwda/](https://iphysresearch.github.io/Survey4GWML/)
 - [https://iphysresearch.github.io/blog/project/gravitational-waves/](https://iphysresearch.github.io/blog/project/gravitational-waves/)
