@@ -78,6 +78,7 @@ Tips：
 - 《LISA Definition Study Report》【155页】（LISA Documents also Reference）[https://arxiv.org/abs/2402.07571](https://arxiv.org/abs/2402.07571)
 - The LSC-Virgo-KAGRA Observational Science White Paper (2024 Edition)【234页】[https://dcc.ligo.org/public/0190/T2300406/001/wp-obs-2024_v1.pdf](https://dcc.ligo.org/public/0190/T2300406/001/wp-obs-2024_v1.pdf)
 - 《Cosmology with the Laser Interferometer Space Antenna》【254页】(Collection) [https://doi.org/10.1007/s41114-023-00045-2](https://doi.org/10.1007/s41114-023-00045-2)
+- 《Detection methods for stochastic gravitational-wave backgrounds: a unified treatment》【223页】[https://doi.org/10.1007/s41114-017-0004-1](https://doi.org/10.1007/s41114-017-0004-1)
 - 《Waveform Modelling for the Laser Interferometer Space Antenna》【237页】[http://arxiv.org/abs/2311.01300](http://arxiv.org/abs/2311.01300)
 - 《An introduction to Bayesian inference in gravitational-wave astronomy: Parameter estimation, model selection, and hierarchical models》【12页】[https://doi.org/10.1017/pasa.2019.2](https://doi.org/10.1017/pasa.2019.2)
 - 《A guide to LIGO–Virgo detector noise and extraction of transient gravitational-wave signals》【55页】[https://iopscience.iop.org/article/10.1088/1361-6382/ab685e](https://iopscience.iop.org/article/10.1088/1361-6382/ab685e)
